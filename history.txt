@@ -1,0 +1,719 @@
+    1  sudo apt update
+    2  sudo apt upgrade
+    3  git config
+    4  sudo apt install git
+    5  git config
+    6  git --version
+    7  git config --global user.username Osmond-Matsela
+    8  git config --global user.email
+    9  git config list
+   10  git config --list
+   11  git config --global user.email osmondmatsela@gmail.com
+   12  git config --list
+   13  ssh-keygen
+   14  cd .ssh
+   15  ls
+   16  cat id_ed25519.pub
+   17  lsusb
+   18  sudo apt-get update
+   19  sudo apt-get upgrade
+   20  systemctl daemon-reload
+   21  java -version
+   22  sudo apt install openjdk-8-jre-headless
+   23  cd Downloads/
+   24  ls
+   25  sh burpsuite_community_linux_v2024_10_3.sh
+   26  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh
+   27  sudo apt  install curl
+   28  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh
+   29  nvm install 22
+   30  node -v
+   31  sudo apt install nodejs
+   32  node -v
+   33  sudo apt update
+   34  sudo apt upgrade
+   35  node -v
+   36  npm -v
+   37  nvm install 22
+   38  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+   39  nvm install 22
+   40  nvm --version
+   41  ~/.nvm
+   42  ls
+   43  ~/.nvm.sh
+   44  ~/nvm.sh
+   45  ~/.nvm/nvm.sh
+   46  nvm install 22
+   47  nvm -v
+   48  cd Documents/
+   49  ls
+   50  cd js-file
+   51  ls
+   52  node index.js
+   53  cd Documents
+   54  ls
+   55  cd Side-chicks/
+   56  git clone https://github.com/Osmond-Matsela/Uno.git
+   57  cd Uno/
+   58  code .
+   59  clear
+   60  node index.js
+   61  clear
+   62  node index.js
+   63  clear
+   64  node index.js
+   65  node index.html
+   66  node index.js
+   67  clear
+   68  node index.js
+   69  clear
+   70  node index.js
+   71  clear
+   72  node index.js
+   73  clear
+   74  node index.js
+   75  clear
+   76  node index.js
+   77  clear
+   78  node index.js
+   79  clear
+   80  node index.js
+   81  clear
+   82  node index.js
+   83  clear
+   84  node index.js
+   85  clear
+   86  node index.js
+   87  clear
+   88  node index.js
+   89  clear
+   90  node index.js
+   91  clear
+   92  node index.js
+   93  clear
+   94  node index.js
+   95  clear
+   96  node index.js
+   97  clear
+   98  node index.js
+   99  clear
+  100  node index.js
+  101  clear
+  102  node index.js
+  103  clear
+  104  node index.js
+  105  clear
+  106  node index.js
+  107  clear
+  108  node index.js
+  109  clear
+  110  node index.js
+  111  clear
+  112  git add .
+  113  git commit -m'deck ,player and npc birth'
+  114  git push
+  115  node index.js
+  116  clear
+  117  clear
+  118  node index.js
+  119  clear
+  120  node index.js
+  121  clear
+  122  node index.js
+  123  clear
+  124  node index.js
+  125  clear
+  126  node index.js
+  127  clear
+  128  node index.js
+  129  clear
+  130  node index.js
+  131  cd Documents/Side-chicks/
+  132  git clone https://github.com/Kyle-ND/ready-to-git-it.git
+  133  clear
+  134  node index.js
+  135  clear
+  136  node index.js
+  137  clear
+  138  node index.js
+  139  git add index.js
+  140  git commit -m'fix repeated  cards the shuffle isnt really pulling through'
+  141  git push
+  142  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh | bash
+  143  node -v
+  144  npm -v
+  145  sudo apt install npm
+  146  nvm install 22
+  147  node -v
+  148  npm -v
+  149  sudo snap install intellij-idea-community --classic
+  150  cd Documents/Main-chick/
+  151  ls
+  152  mkdir Umuzi
+  153  mkdir WeThinkCode_
+  154  cd Umuzi/
+  155  git clone https://github.com/Umuzi-org/Osmond-Matsela-778-contentitem-.git
+  156  git add important.md
+  157  git commit -m"created and added important.md file"
+  158  git push
+  159  node task1.js
+  160  git add .
+  161  git commit -m"greet function created"
+  162  git push
+  163  node task2.js
+  164  clear
+  165  node task2.js
+  166  git add .
+  167  git commit -m" arguement or no arguement function works"
+  168  git push
+  169  node task2.js
+  170  git add .
+  171  git commit -m'Fixed missig exclamation point'
+  172  git push
+  173  node task3.js
+  174  git add .
+  175  git commit -m" Task 3 done"
+  176  git push
+  177  node task4.js
+  178  git add .
+  179  git commit -m"intro Math module"
+  180  git push
+  181  git add .
+  182  git commit -m'Check work properly'
+  183  git push
+  184  node task4.js
+  185  git add .
+  186  git commit -m'Checked'
+  187  git push
+  188  node task5.js
+  189  git add .
+  190  git commit -m'task 5 complete'
+  191  git push
+  192  node task5.js
+  193  node task6.js
+  194  git add .
+  195  git commit -m'Task 6 done'
+  196  git push
+  197  node task7.js
+  198  git add .
+  199  git commit -m'Task 7 done'
+  200  git push
+  201  node task8.js
+  202  git add .
+  203  git commit -m"Task 8 done"
+  204  git push
+  205  node task8.js
+  206  git add .
+  207  git commit -m'removed the "s" from hour and minute'
+  208  git push
+  209  node task8.js
+  210  clear
+  211  node task8.js
+  212  git add .
+  213  git commit -m'Task 8 finally complete'
+  214  git push
+  215  node task9.js
+  216  clear
+  217  node task9.js
+  218  clear
+  219  node task9.js
+  220  clear
+  221  node task9.js
+  222  clear
+  223  node task9.js
+  224  clear
+  225  node task9.js
+  226  clear
+  227  node task9.js
+  228  git add .
+  229  git commit -m'Task 9 done '
+  230  git push
+  231  node task9.js
+  232  clear
+  233  node task9.js
+  234  clear
+  235  node task9.js
+  236  git add .
+  237  git commit -m'return instead of log'
+  238  git push
+  239  node task10.js
+  240  clear
+  241  node task10.js
+  242  clear
+  243  node task10.js
+  244  clear
+  245  node task10.js
+  246  clear
+  247  node task10.js
+  248  git add .
+  249  git commit -m'Task 10 done'
+  250  git push
+  251  node task10.js
+  252  clear
+  253  node task10.js
+  254  clear
+  255  node task10.js
+  256  clear
+  257  node task10.js
+  258  clear
+  259  node task10.js
+  260  clear
+  261  node task10.js
+  262  clear
+  263  node task10.js
+  264  git add .
+  265  git commit -m'Task 10 fixed'
+  266  git push
+  267  git add .
+  268  git commit -m'all questions answered'
+  269  git push
+  270  nodejs index.js
+  271  node.js index.js
+  272  node index.js
+  273  git checkout main
+  274  git pull
+  275  git checkout -b task/1
+  276  node task1.js
+  277  git add .
+  278  git commit -m'task 1 complete'
+  279  git push
+  280  git push origin main
+  281  git checkout main
+  282  git merge task/1
+  283  git push
+  284  git checkout task/1
+  285  git checkout main
+  286  git pull
+  287  git checkout -b task/2
+  288  node task2.js
+  289  git add task2.js
+  290  git commit -m 'task 2 done'
+  291  git merge main
+  292  git checkout main
+  293  git merge task/2
+  294  git push
+  295  git checkout task/2
+  296  git checkout main
+  297  git checkout -b task/3
+  298  node task3.js
+  299  git add task3.js
+  300  git commit -m'Task 3 done'
+  301  git checkout main
+  302  git merge task/3
+  303  git checkout task/3
+  304  git checkout main
+  305  git checkout -b task/4
+  306  node task4.js
+  307  git checkout main
+  308  git checkout task/4
+  309  git add task4.js
+  310  git commit -m'task 4 done'
+  311  git checkout main
+  312  git merge task/4
+  313  git checkout task/4
+  314  git checkout main
+  315  git checkout -b task/5
+  316  node task5.js
+  317  git add task5.js
+  318  git commit -m'task 5 done'
+  319  git checkout main
+  320  git merge task/5
+  321  git checkout task/5
+  322  git checkout main
+  323  git checkout -b task/6
+  324  node task6.js
+  325  copilot-debug node task6.js
+  326  clear
+  327  node task6.js
+  328  git add task6.js
+  329  git commit -m'task 6 done'
+  330  git checkout main
+  331  git merge task/6
+  332  git checkout task/6
+  333  git checkout main
+  334  git checkout task/7
+  335  git checkout -b task/7
+  336  clear
+  337  node task7.js
+  338  clear
+  339  node task7.js
+  340  git add task7.js
+  341  git commit -m'task 7 done'
+  342  git checkout main
+  343  git merge task/7
+  344  git checkout task/7
+  345  sudo apt-get update
+  346  sudo apt-get upgrade
+  347  node class.js
+  348  node task10.js
+  349  git add task10.js
+  350  git commit -m'task ten should work'
+  351  git push
+  352  git add task10.js
+  353  node task10.js
+  354  git add person.js
+  355  git commit -m'Person class should be working'
+  356  git push
+  357  git checkout -b person
+  358  git add person.js
+  359  git commit -m'Person should greet'
+  360  git add person.js
+  361  git commit -m'Person should greet'
+  362  git checkout main
+  363  git merge person
+  364  git checkout person
+  365  node task10.js
+  366  git add task10.js
+  367  node task10.js
+  368  git add task10.js
+  369  git commit -m'replaced , and with and '
+  370  git push
+  371  cd Documents/Side-chicks/unittests/
+  372  git clone https://github.com/mosh-hamedani/javascript-testing-starter.git
+  373  npm i -D vitest
+  374  npm test
+  375  clear
+  376  npm test
+  377  cd Downloads/
+  378  sudo dpkg -i steam_latest.deb
+  379  cd Downloads/
+  380  sudo dpkg -i steam_latest.deb
+  381  sudo apt-get purge steam
+  382  sudo apt-get autoremove
+  383  sudo rm -rf ~/.steam
+  384  sudo apt-get -f install
+  385  sudo rm -rf ~/.local/share/Steam
+  386  sudo rm -rf ~/.config/steam
+  387  sudo apt-get update
+  388  sudo apt-get upgrade
+  389  cd Downloads
+  390  ls
+  391  wine xmglobal5setup.exe
+  392  git add .
+  393  git commit -m'All questions done'
+  394  git push
+  395  git add .
+  396  git commit -m'TDD questions done'
+  397  ggit push
+  398  git push
+  399  node task7.js
+  400  node task2.js
+  401  cd Documents/Side-chicks/
+  402  git clone https://github.com/Osmond-Matsela/boilerplate-npm.git
+  403  cd boilerplate-npm/
+  404  code .
+  405  npm init -y
+  406  clear
+  407  sudo apt-get update
+  408  sudo apt-get upgrade
+  409  git add .
+  410  git commit -m'reasons added'
+  411  git push
+  412  ssh bandit.labs.overthewire.org -l bandit0
+  413  ssh bandit0@bandit.labs.overthewire.org -p 2220
+  414  ssh bandit1@bandit.labs.overthewire.org -p 2220
+  415  ssh bandit2@bandit.labs.overthewire.org -p 2220
+  416  ssh bandit3@bandit.labs.overthewire.org -p 2220
+  417  ssh bandit4@bandit.labs.overthewire.org -p 2220
+  418  ssh bandit5@bandit.labs.overthewire.org -p 2220
+  419  ssh bandit6@bandit.labs.overthewire.org -p 2220
+  420  clear
+  421  ssh bandit6@bandit.labs.overthewire.org -p 2220
+  422  ssh bandit7@bandit.labs.overthewire.org -p 2220
+  423  reset
+  424  ssh bandit7@bandit.labs.overthewire.org -p 2220
+  425  man strings
+  426  man grep
+  427  ssh bandit7@bandit.labs.overthewire.org -p 2220
+  428  reset
+  429  git add .
+  430  git commit -m'Capital letter fixed'
+  431  git push
+  432  node person.js
+  433  git add .
+  434  git commit -m'Tried to be dry'
+  435  git push
+  436  git checkout task/1
+  437  git add task1.js
+  438  git commit -m"removed function call"
+  439  git checkout main
+  440  git checkout task/2
+  441  git add .
+  442  git commit -m"Fucntion call removed"
+  443  git push
+  444  git checkout main
+  445  git checkout task/3
+  446  git add task3.js
+  447  git commit -m"Function call removed"
+  448  git push
+  449  git checkout main
+  450  git checkout task/4 
+  451  git add task4.js
+  452  git commit -m"Funtion call removed"
+  453  git push
+  454  git checkout main
+  455  git switch task/5 
+  456  git add task5.js
+  457  git commit -m"Function call removed"
+  458  git push
+  459  git switch main
+  460  git switch task/6
+  461  git add task6.js
+  462  git commit -m"Function call removed"
+  463  git push
+  464  git switch task/7
+  465  git add task7.js
+  466  git commit -m"Funtion call removed"
+  467  git push
+  468  git switch task/6
+  469  git add task6.js
+  470  git commit -m"return no more"
+  471  git push
+  472  git switch task/2
+  473  git switch task/7
+  474  ssh bandit8@bandit.labs.overthewire.org -p 2220
+  475  node Person.js
+  476  node person.js
+  477  git add person.js
+  478  git commit -m"lenght bug squashed"
+  479  git push
+  480  git switch task/2
+  481  git add task7.js
+  482  git commit -m"function call fix"
+  483  git push
+  484  git switch task/2
+  485  git add task2.js
+  486  git commit -m"Conflicts avoided"
+  487  git add task2.js
+  488  git commit -m" Fucntion call fix"
+  489  git push
+  490  git switch task/3
+  491  git rm task2.js
+  492  git commit -m"Merge conlfict resolved"
+  493  git push
+  494  git switch task/4
+  495  git rm task2.js
+  496  git rm task3.js
+  497  git commit -m"Merge fixed"
+  498  git push
+  499  git switch task/5
+  500  git rm task4.js
+  501  git rm task5.js
+  502  git rm task3.js
+  503  git rm task2.js
+  504  git add task5.js
+  505  git commit -m"Merge conflict avoided"
+  506  git push
+  507  git switch task/6
+  508  git rm task5.js
+  509  git rm task6.js
+  510  git rm task4.js
+  511  git rm task3.js
+  512  git rm task2.js
+  513  git add task6.js
+  514  git commit -m"Merge conflicts avoided"
+  515  git push
+  516  git add task6.js
+  517  git commit -m"Merge resolved"
+  518  git push
+  519  git swicth task/7
+  520  git switch task/7
+  521  git rm task2.js
+  522  git rm task3.js
+  523  git rm task4.js
+  524  git rm task5.js
+  525  git rm task6.js
+  526  git commit -m" Merge resolved"
+  527  git push
+  528  git switch task/1
+  529  git switch task/2
+  530  git switch task/3
+  531  git switch task/4
+  532  git rm task1.js
+  533  git commit -m"no conflicts"
+  534  git push
+  535  git switch task/7
+  536  git rm task1.js
+  537  git commit -m"No conflicts"
+  538  git push
+  539  git switch task/6
+  540  git rm task1.js
+  541  git commit -m"no conflicts"
+  542  git push
+  543  git switch task/5
+  544  git rm task1.js
+  545  git commit -m"no conflicts"
+  546  git push
+  547  git switch task/4
+  548  git switch task/3
+  549  git rm task1.js
+  550  git commit -m"no conflicts"
+  551  git push
+  552  git switch task/2
+  553  git rm task1.js
+  554  git commit -m"no conflicts"
+  555  git push
+  556  git switch task/1
+  557  git switch task/7
+  558  git switch task/6
+  559  git switch task/5
+  560  git switch task/4
+  561  git switch task/3
+  562  git switch task/2
+  563  /bin/python3 Untitled-1
+  564  npm install expo.cli
+  565  npm install expo-cli
+  566  cd Documents/Side-chicks/
+  567  git clone https://github.com/Osmond-Matsela/Intuactive.git
+  568  code .
+  569  cd ls
+  570  ls
+  571  cd Intuactive/
+  572  code .
+  573  ls
+  574  wine TheFarmerWasReplaced.exe
+  575  cd Documents/Side-chicks/Buhlebemvelo-Creations/
+  576  npx create-react-app Buhlebemvelo\ Creations
+  577  npx create-react-app buhlebemvelo\ creations
+  578  npx create-react-app buhlebemvelo-creations
+  579  ls
+  580  cd buhlebemvelo-creations/
+  581  ls
+  582  code .
+  583  npm start
+  584  npm isntall web-vitals
+  585  npm start
+  586  git add .
+  587  git commi -m"First Commit"
+  588  git commit -m"First Commit"
+  589  git push
+  590  node person.js
+  591  git add person.js
+  592  git commit -m"undefined interets fix"
+  593  git push
+  594  git pull
+  595  npm start
+  596  git pull
+  597  git switch task/3
+  598  git switch task/4
+  599  git switch task/5
+  600  git switch task/6
+  601  git switch task/7
+  602  cd Documents/Side-chicks/
+  603  ls
+  604  cd ..
+  605  Main-chick/WeThinkCode_/
+  606  Main-chick/
+  607  /bin/python3 /home/june/Documents/Main-chick/WeThinkCode_/gradient/gradient.py
+  608  git pull
+  609  git stash
+  610  git pull
+  611  npm start
+  612  git pull
+  613  npm start
+  614  git add .
+  615  git commit -m"added images and components"
+  616  git push
+  617  npm start
+  618  git add .
+  619  git commit -m" Go thtrough"
+  620  git push
+  621  cd Documents/
+  622  Main-chick/
+  623  cd Main-chick/WeThinkCode_/
+  624  ls
+  625  git clone git@gitlab.wethinkco.de:osmatsejhb024/gradient.git
+  626  ls
+  627  cd gradient/
+  628  code .
+  629  cd ..
+  630  code .
+  631  cd ..
+  632  Side-chicks/
+  633  cd Side-chicks/
+  634  ls
+  635  cd Buhlebemvelo-Creations/
+  636  ls
+  637  cd buhlebemvelo-creations/
+  638  code .
+  639  git checkout task/1
+  640  git pull origin main
+  641  git checkout task/5
+  642  git merge main
+  643  git status
+  644  git rm task6.js
+  645  status
+  646  git status
+  647  git merge main
+  648  git status
+  649  git checkout task/4
+  650  git checkout task/5
+  651  gitstatus
+  652  git status
+  653  git fetch
+  654  git pull
+  655  git add .
+  656  git push
+  657  git clone https://github.com/Umuzi-org/Osmond-Matsela-219-level-1-programming-katas-javascript.git
+  658  code
+  659  code .
+  660  git checkout task/5
+  661  git add .
+  662  git commit -m "Fixing conflicts"
+  663  git push
+  664  git pull origin main
+  665  git switch task/7
+  666  git add .
+  667  git commit -m' task 7 done'
+  668  cd Documents/Main-chick/Umuzi/
+  669  mkdir git-basic-exercises
+  670  cd git-basic-exercises/
+  671  git init
+  672  git status
+  673  touch README.md
+  674  ls -a
+  675  git status
+  676  git log
+  677  git add
+  678  git add .
+  679  git status
+  680  git rm --cached README.md
+  681  git status
+  682  git add .
+  683  git commit -m"initial commit"
+  684  git log
+  685  nano README.md
+  686  cat README.md
+  687  git status
+  688  git add README.md
+  689  git commit -m"Second commit"
+  690  nano README.md
+  691  git add README.md
+  692  git commit -m"third commit"
+  693  git log
+  694  git checkout 7ed25c9314cc1a8fe3cf3f689c429f441c04ec8f
+  695  cat README.md
+  696  git checkout main
+  697  git status
+  698  git switch main
+  699  git switch master
+  700  cat README.md
+  701  git branch
+  702  git branch milkshake-flavours
+  703  git branch
+  704  git checkout milkshake-flavours
+  705  git branch
+  706  git status
+  707  nano milkshakess.md
+  708  git status
+  709  git add milkshakess.md
+  710  git commit -m'added initial flavours'
+  711  git log
+  712  git checkout master
+  713  ls
+  714  git log
+  715  git branch history
+  716  git checkout history
+  717  git branch
+  718  histor > history.txt
+  719  history > history.txt
